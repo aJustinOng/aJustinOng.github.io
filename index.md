@@ -1,4 +1,6 @@
-# Hello there, I'm Justin!
+# **Hello there, I'm Justin!**
+
+### Developer/Artist/Creator
 
 I am an aspiring software engineer with entry-level professional experience in application development. I worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
