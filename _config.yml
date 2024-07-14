@@ -4,7 +4,6 @@ author:
   email: justinongzhenze@gmail.com
 
 description: Developer/Artist/Creator
-show_downloads: false
 
 remote_theme: jekyll/minima
 
@@ -13,7 +12,7 @@ header_pages:
 minima:
   skin: solarized-dark
 
-social_links:
-- { platform: github,         user_url: "https://github.com/aJustinOng" }
-- { platform: linkedin,       user_url: "https://www.linkedin.com/in/a-justin-ong" }
-- { platform: instagram,      user_url: "https://www.instagram.com/idrawshizzle" }
+  social_links:
+    - { platform: github,         user_url: "https://github.com/aJustinOng" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/a-justin-ong" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/idrawshizzle" }
