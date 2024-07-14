@@ -34,7 +34,7 @@ In-person supplemental tutoring to peers for classes I have previously taken suc
 
 ## **Projects**
 
-### **KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator**
+### KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
 This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
@@ -46,7 +46,7 @@ The recipe's ingredients, instructions, and AI-generated image are displayed to 
 
 &nbsp;
 
-### **LLM SPAM or HAM Classification**
+### LLM SPAM or HAM Classification
 
 As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
 
