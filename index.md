@@ -4,7 +4,7 @@
 
 I am an aspiring software engineer with entry-level professional experience in application development. I have worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
-<img src="assets/img/linkedInIcon.png" width="15" height="15"/>[Find me on LinkedIn!](https://www.linkedin.com/in/a-justin-ong/)
+<img src="assets/img/linkedInIcon.png" width="20" height="20"/>[ Find me on LinkedIn!](https://www.linkedin.com/in/a-justin-ong/)
 
 # ---
 
