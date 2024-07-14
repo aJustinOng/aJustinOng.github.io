@@ -34,11 +34,15 @@ The recipe's ingredients, instructions, and AI-generated image are displayed to 
 
 ![KAMI Website](/assets/img/KAMIWeb.PNG)
 
-**2-3 Trees - Self Balancing Binary Trees**
+**LLM SPAM or HAM Classification**
 
-Regular binary trees tend to get 'unbalanced' when data is inserted or deleted. Since the data is no longer equally distributed, the time complexity of data retrieval/queries will start to degrade. 2-3 trees hold data within nodes that can hold up to two values, and they automatically split and merge to maintain a constant balance in the tree.
+<a href="pdfs/Harnessing AI Cognition.pdf" target="_blank">PDF.</a>
 
-Thus, 2-3 trees are optimal in databases that update often, as constant stream of inputs and outputs will not cause an imbalance in the tree.
+As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
+
+I downloaded and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
+
+![Email Classification](/assets/img/EmailClassification.PNG)
 
 # ---
 
@@ -46,13 +50,15 @@ Thus, 2-3 trees are optimal in databases that update often, as constant stream o
 
 ### Southern Arkansas University
 
-Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics
+Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics, 4.00GPA
+
+Honors College, International Students Association
 
 # ---
 
 ## **Other things about me**
 In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year.
 
-![KAMI logo](/assets/img/KAMIIcon.png)
+<!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
 
-<!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
+![KAMI logo](/assets/img/KAMIIcon.gif)
