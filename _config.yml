@@ -2,10 +2,14 @@ title: Portfolio
 author:
   name: Justin Ong
   email: justinongzhenze@gmail.com
-title: Justin Ong
-logo: /assets/img/pfp.png
+
 description: Developer/Artist/Creator
 show_downloads: false
-theme: minima
+
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 minima:
   skin: dark
