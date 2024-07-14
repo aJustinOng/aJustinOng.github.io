@@ -1,1 +1,1 @@
-# aJustinOng.github.io
+GitHub repository for [personal portfolio](https://ajustinong.github.io/).

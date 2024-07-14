@@ -1,7 +1,27 @@
-<h1>Justin Ong's website</h1>
+# Hello there!
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/git-workflows/development-workflow-with-git-flow?autoplay=false&claim=AQFERvpZVUIn_gAAAY_PE7aG4xdR-ACMRL8LxuzWhq2c4hhwWKPtCfqv9m4XCVwQSMl1sMW4Oi7AZ89HN-JTn-ZgBF90nMnx4I6f4XSak9QnFl4KmS3dTpcD8FUdFkgTOjOdEld_d46P99SEy622N4ylWLYjCW08jAMpwpEDzUwiks7BCWKv4ayhI8tDWl7aKj5OcEY5h1-MbeTvGCXZvTuu7rznv2t7q-r2Ohj2KlI-mJVMqEK79DWaEthlf-kwAcL9-3c9gP7DGqrfkVvmcAsinhr94c2aSDhuhMSf11cngD13w9WFJ3_MvvzoQ_lq63yFsPI7_b_FHZQX50xRsjw7BdzqUfNAJ02neNvBMnII172hjKpLz7zCHjrHvaoE92vT_ZZX1QQ70F81iR3sgyXcw7gyY0UClAaEEKD7kNeckCvtBeuLWl7ezIbkZdAXR_ByHKEjGUBvAL6--KOKbGPzBAw8u8KyH3_2iJcUdezy2_2EZZmR9En_-KizLeBhK4ec9gsVMLRut8g8kOUyEBZCXlZyK7qrDfbrHahvz1D0fqvjLsZ4DRFXGi0VYld7gaMV1czZblg1rdKJAw_GBWaUIJSC6tfHOFnYmKRyvE2v3q3L10iWKLiO0ztotQH_csU8mMuedx1n1lJP4ly9JZSUV0OVPjHuyy-BQ4DT_2RI5OumCqCuLU_VwHkM0uihGFrcR97Nq_FBagbQc0jX5jgoehv-sbyvhh-QE_W7XIxSB8uKHdVHsWZ1gwaX7RlBhvl_BKAuaiDCLcsYXBhKrYOQTxFFTM6dvC-ycH03J7XLHXvNcuZDf0tEtFTN28orFLgch_q_OC4uGgP7t0T3-yI0ZzRpzKOEFcl-6jGRZBgm_TuTqTxXuYwf9QEGsUGKFM0-Rw1_a7pfwn5jYsWHxaXEM_Tc7mpRYdbXj7bchYfew9PNk7QpxvAx5X3sJxOPTcHXy_g9kVQ9ANTicgOaYmnc37m9yiw7iDocSgV62Oq4opnDDtH_R1nzBJB8iEr81hFlGdcYQd5PcnKN0NjL4D-VD9T5bGr0EohwddYVZpTGZLALymQmcfkE_7oLKTLephHi5poT1O2sgCafFRn_I3L9cOU3oK2Tp-DRoSXzPIUwkqg5SZGAWr1Tmqi1-6KB199w8ZMrU34024GOoMBwnuXioapyioJcTowY6P5MhFRR9RRNRjKJZk0LDcoWOxZZHMN8OusU719UGBEJcIpmfJTZ48w" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/git-workflows/development-workflow-with-git-flow?trk=embed_lil">Development workflow with Git flow</a></strong> from <strong><a href="https://www.linkedin.com/learning/git-workflows?trk=embed_lil">Git Workflows</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/kevin-bowersox?trk=embed_lil">Kevin Bowersox</a></strong></p>
+I am an aspiring software engineer with entry-level professional experience in application development. I worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
-If you’re a developer working in any sort of team environment, tracking changes to a project’s source code is a vitally important aspect of the job. Git is one of the most popular tools for tracking and managing code, and there are a number of Git workflows that are commonly used by development teams for collaboration and management. In this course, Kevin Bowersox details several Git workflows that are popular with development teams. He details the main concepts behind these workflows, and shows how to choose the one that suits your needs—whether its Git Flow, GitHub Flow, or trunk-based development—to work more smoothly and eliminate pain points. If you’re looking for hands-on experience so you can work more effectively and collaboratively in Git, join Kevin in this course.
+### Work Experience
+App Dev Intern @ J.B. Hunt Transport
+CS Research Assistant @ Southern Arkansas University
+Peer Tutor @ Southern Arkansas University
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D9CLhQdLp8w?si=HXrbWFETkHYsz3cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Projects
+**KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator**
+
+This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image is displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
+
+![KAMI Website](/assets/img/KAMIWeb.PNG)
+
+**2-3 Trees - Self Balancing Binary Trees**
+
+Regular binary trees tend to get 'unbalanced' when data is inserted or deleted. Since the data is no longer equally distributed, the time complexity of data retrieval/queries will start to degrade. 2-3 trees hold data within nodes that can hold up to two values, and they automatically split and merge to maintain a constant balance in the tree. Thus, 2-3 trees are optimal in databases that update often, as constant stream of inputs and outputs will not cause an imbalance in the tree.
+
+### Education
+Computer Science: Cyber Security and Privacy Option, BS
+
+### Other things about me
+In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year. For the website, I even animated a .gif consisting of 16 frames.
+
+![KAMI logo](/assets/img/KAMIIcon.gif)

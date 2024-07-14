@@ -1,5 +1,5 @@
 title: Justin Ong
-#logo: /assets/img/image.png
-description: App Dev Intern
-# show_downloads: false
-theme: jekyll-theme-slate
+logo: /assets/img/pfp.png
+description: Developer/Artist/Creator
+show_downloads: false
+theme: jekyll-theme-minima
