@@ -1,10 +1,10 @@
 # **Hello there, I'm Justin!**
 
-### - Developer/Artist/Creator -
+### Developer/Artist/Creator
 
 I am an aspiring software engineer with entry-level professional experience in application development. I have worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
-[![LinkedIn](assets/img/linkedInIcon.png)](https://www.linkedin.com/in/a-justin-ong/)
+<img src="assets/img/linkedInIcon.png" width="200" height="200"/>(https://www.linkedin.com/in/a-justin-ong/)
 
 # ---
 
@@ -65,4 +65,6 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 
 <!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
 
-![KAMI logo](/assets/img/KAMIIcon.gif | width=100)
+<!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
+
+<img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
