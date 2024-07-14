@@ -1,6 +1,6 @@
-Justin Ong
-
 # **Hello there, I'm Justin!**
+
+### Developer/Artist/Creator
 
 I am an aspiring software engineer with entry-level professional experience in application development. I worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
@@ -12,13 +12,15 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 I was assigned multiple stories relating to maintaining and updating a shipping/booking application.
 
+The application used Java in a Spring Boot architecture and was deployed into Azure Dev Ops pipelines.
+
 ### CS Research Assistant @ Southern Arkansas University
 
 Assisting my professor in research projects, with a focus on ViT (vision transformers) object detection. Primarily using Python.
 
 ### Peer Tutor @ Southern Arkansas University
 
-In-person supplemental tutoring to peers for classes I have previously taken such as Computer Science, Calculus, Physics, and Composition.
+In-person supplemental tutoring to peers for classes I have previously taken such as Computer Science, Calculus, and Physics.
 
 # ---
 
@@ -30,8 +32,6 @@ This capstone project's main focus was to make an AI-based recipe generator that
 
 ![KAMI Website](/assets/img/KAMIWeb.PNG)
 
-&nbsp;
-
 **2-3 Trees - Self Balancing Binary Trees**
 
 Regular binary trees tend to get 'unbalanced' when data is inserted or deleted. Since the data is no longer equally distributed, the time complexity of data retrieval/queries will start to degrade. 2-3 trees hold data within nodes that can hold up to two values, and they automatically split and merge to maintain a constant balance in the tree. Thus, 2-3 trees are optimal in databases that update often, as constant stream of inputs and outputs will not cause an imbalance in the tree.
@@ -39,7 +39,8 @@ Regular binary trees tend to get 'unbalanced' when data is inserted or deleted. 
 # ---
 
 ## **Education**
-Computer Science: Cyber Security and Privacy Option, BS
+Southern Arkansas University
+Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics
 
 # ---
 
@@ -49,5 +50,3 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 ![KAMI logo](/assets/img/KAMIIcon.png)
 
 <!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
-
-&nbsp;
