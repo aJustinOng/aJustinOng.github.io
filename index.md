@@ -10,13 +10,13 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-I was assigned multiple stories relating to maintaining and updating a shipping/booking application.
+Over the course of a two-month long internship, I was assigned multiple stories relating to maintaining and updating a shipping/booking application. I worked closely with a mentor within a full-time team and participated in their two-week sprints.
 
 The application used Java in a Spring Boot architecture and was deployed into Azure Dev Ops pipelines.
 
 ### CS Research Assistant @ Southern Arkansas University
 
-Assisting my professor in research projects, with a focus on ViT (vision transformers) object detection. Primarily using Python.
+Assisting my professor in research projects, with a focus on ViT (vision transformers) object detection. Primarily using Python and its libraries.
 
 ### Peer Tutor @ Southern Arkansas University
 
