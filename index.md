@@ -10,7 +10,7 @@ I am an aspiring software engineer with entry-level professional experience in a
 &nbsp;&nbsp;
 [![website](assets/img/linkedin.svg)](https://linkedin.com/in/a-justin-ong)
 &nbsp;&nbsp;
-[![website](/assets/img/instagram.svg)](https://instagram.com/idrawshizzle)
+[![website](assets/img/instagram.svg)](https://instagram.com/idrawshizzle)
 
 # ---
 
@@ -40,7 +40,7 @@ This capstone project's main focus was to make an AI-based recipe generator that
 
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
 
-![KAMI Website](/assets/img/KAMIWeb.PNG)
+![KAMI Website](assets/img/KAMIWeb.PNG)
 
 <a href="pdfs/KAMI Report.pdf" target="_blank">[Read more]</a>
 
@@ -52,7 +52,7 @@ As an Honors project for my Cyber Forensics class, I decided to test the ability
 
 I downloaded and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
 
-![Email Classification](/assets/img/EmailClassification.PNG)
+![Email Classification](assets/img/EmailClassification.PNG)
 
 <a href="pdfs/Harnessing AI Cognition.pdf" target="_blank">[Read more]</a>
 
