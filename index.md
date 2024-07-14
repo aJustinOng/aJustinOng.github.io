@@ -1,8 +1,6 @@
-# ---
+Justin Ong
 
 # **Hello there, I'm Justin!**
-
-### Developer/Artist/Creator
 
 I am an aspiring software engineer with entry-level professional experience in application development. I worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
 
@@ -10,11 +8,17 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 ## **Work Experience**
 
-App Dev Intern @ J.B. Hunt Transport
+### App Dev Intern @ J.B. Hunt Transport
 
-CS Research Assistant @ Southern Arkansas University
+I was assigned multiple stories relating to maintaining and updating a shipping/booking application.
 
-Peer Tutor @ Southern Arkansas University
+### CS Research Assistant @ Southern Arkansas University
+
+Assisting my professor in research projects, with a focus on ViT (vision transformers) object detection. Primarily using Python.
+
+### Peer Tutor @ Southern Arkansas University
+
+In-person supplemental tutoring to peers for classes I have previously taken such as Computer Science, Calculus, Physics, and Composition.
 
 # ---
 
@@ -22,9 +26,11 @@ Peer Tutor @ Southern Arkansas University
 
 **KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator**
 
-This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image is displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
+This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
 
 ![KAMI Website](/assets/img/KAMIWeb.PNG)
+
+&nbsp;
 
 **2-3 Trees - Self Balancing Binary Trees**
 
@@ -38,6 +44,10 @@ Computer Science: Cyber Security and Privacy Option, BS
 # ---
 
 ## **Other things about me**
-In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year. For the website, I even animated a .gif consisting of 16 frames.
+In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year.
 
-![KAMI logo](/assets/img/KAMIIcon.gif)
+![KAMI logo](/assets/img/KAMIIcon.png)
+
+<!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
+
+&nbsp;
