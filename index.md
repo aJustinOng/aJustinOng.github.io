@@ -6,11 +6,11 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 ### Find me on:
 
-[![website](.assets/img/github.svg)](https://github.com/aJustinOng)
+[![website](assets/img/github.svg)](https://github.com/aJustinOng)
 &nbsp;&nbsp;
-[![website](.assets/img/linkedin.svg)](https://linkedin.com/in/a-justin-ong)
+[![website](assets/img/linkedin.svg)](https://linkedin.com/in/a-justin-ong)
 &nbsp;&nbsp;
-[![website](./assets/img/instagram.svg)](https://instagram.com/idrawshizzle)
+[![website](/assets/img/instagram.svg)](https://instagram.com/idrawshizzle)
 
 # ---
 
