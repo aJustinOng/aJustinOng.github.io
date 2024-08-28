@@ -18,17 +18,17 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-Over the course of a two-month long internship, I was assigned multiple stories relating to maintaining and updating a shipping/booking application. I worked closely with a mentor within a full-time team and participated in their two-week sprints.
+In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
 
-The application used Java in a Spring Boot architecture and was deployed into Azure Dev Ops pipelines.
+The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
 
 ### CS Research Assistant @ Southern Arkansas University
 
-Assisting my professor in research projects, with a focus on ViT (vision transformers) object detection. Primarily using Python and its libraries.
+I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
 ### Peer Tutor @ Southern Arkansas University
 
-In-person supplemental tutoring to peers for classes I have previously taken such as Computer Science, Calculus, and Physics.
+In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role honed my communication and leadership skills.
 
 # ---
 
@@ -69,6 +69,7 @@ Honors College, International Students Association
 # ---
 
 ## **Other things about me**
+
 In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year, where I even created a .gif animation consisting of 16 hand-drawn frames.
 
 <!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
@@ -76,3 +77,5 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 <!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
 
 <img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
+
+![KAMI logo frames](assets/img/KAMIIconFrames.PNG)
