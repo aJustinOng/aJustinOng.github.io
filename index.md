@@ -78,4 +78,4 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 
 <img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
 
-![KAMI logo frames](assets/img/KAMIIconFrames.PNG)
+<img src="/assets/img/KAMIIconFrames.png"/>
