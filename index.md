@@ -2,7 +2,7 @@
 
 ### Developer/Artist/Creator
 
-> I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
@@ -18,8 +18,11 @@
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-**2024**  
-**Lowell, Arkansas, United States · On-site**
+In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
+
+The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
+
+What I did:
 
 - Participated in multiple 2-week sprints with a full-time backend team.  
 - Updated and maintained the 360 Shipper application.  
@@ -28,16 +31,11 @@
 - Collaboration through Azure DevOps Services with Git.  
 - Utilized Postman API and Dynatrace to test services.  
 
-In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
-
-The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
-
-&nbsp;
-
 ### CS Research Assistant @ Southern Arkansas University
 
-**2022-2024**  
-**Magnolia, Arkansas, United States · On-site**
+I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
+
+What I did:
 
 - Assisted in several research projects with a focus on machine learning.  
 - Object detection/classification.  
@@ -45,20 +43,15 @@ The application was based on the Java Spring Boot framework, and we used Git req
 - Utilized Python tools in projects.  
 - Image/label dataset cleanup.  
 
-I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
-
-&nbsp;
-
 ### Peer Tutor @ Southern Arkansas University
 
-**2022-2024**  
-**Magnolia, Arkansas, United States · On-site**
+In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
+
+What I did:
 
 - Worked as an in-person supplementary tutor.  
 - Provided tailored support to individuals who required assistance in mastering their course material.  
-- Computer Science, Math, Physics, and English.
-
-In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
+- Computer Science, Math, Physics, and English.  
 
 # ---
 
@@ -68,7 +61,7 @@ In the Academic Enrichment Center, I worked as an in-person supplemental tutor t
 
 This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
-The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
+The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
 
 ![KAMI Website](assets/img/KAMIWeb.PNG)
 
@@ -86,6 +79,18 @@ I downloaded and hosted the models on LM Studio and used the OpenAI API to conne
 
 <a href="pdfs/Harnessing AI Cognition.pdf" target="_blank">[Read more]</a>
 
+&nbsp;
+
+### 2-3 Tree Data Structure
+
+This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees.
+
+Regular binary trees tend to get "unbalanced" after data is inserted or removed. This means that all data are pushed to one side of the binary tree instead of being equally distributed, which increases the time complexity of data retrieval and queries. 2-3 trees do not have this issue because of the way they store data. Nodes that hold data within 2-3 trees can hold up to two values, and they split and merge in a way that maintains a constant balance in the tree. Thus, 2-3 trees are a more effective form of binary trees in databases that constantly update, as the stream of inputs and outputs will not cause an imbalance in the tree.
+
+![2-3 Trees](assets/img/23Treeslight.PNG)
+
+<a href="pdfs/23Trees.pdf" target="_blank">[Read more]</a>
+
 # ---
 
 ## **Skills**
@@ -99,6 +104,8 @@ The following is a simple interactive data visualization of the wages of compute
 As a research assistant, I had to explore different ways of visualizing data. I utilized Python libraries and Jupyter Notebook during our machine learning projects.
 
 ![Jupyter Notebook Visualization](assets/img/VisualizationBrainTumor.png)
+
+&nbsp;
 
 ### Technical Writing
 
@@ -142,5 +149,5 @@ Animation frames:
 Other examples of my digital art works that were created through Clip Studio Paint, a digital graphics software:
 
 <img src="/assets/img/Wallpaper_2099v1.png"/>  
+<img src="/assets/img/Wallpaper_RocketGrootWhiteBackground.png"/>  
 <img src="/assets/img/Wallpaper_GiratinaAltered.png"/>  
-<img src="/assets/img/Wallpaper_RocketGrootWhiteBackground.png"/>
