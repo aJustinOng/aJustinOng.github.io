@@ -2,7 +2,7 @@
 
 ### Developer/Artist/Creator
 
-I am an aspiring software engineer with entry-level professional experience in application development. I have worked with Java, Python, and C++. I am currently a Senior at Southern Arkansas University, with a major in Computer Science and a minor in Mathematics.
+I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
@@ -18,17 +18,43 @@ I am an aspiring software engineer with entry-level professional experience in a
 
 ### App Dev Intern @ J.B. Hunt Transport
 
+2024
+Lowell, Arkansas, United States · On-site
+
+• Participated in multiple 2-week sprints with a full-time backend team.
+• Updated and maintained the 360 Shipper application.
+• EUM calls cleanup, removing and replacing legacy code with modern APIs.
+• Application was based on a Java Spring Boot framework.
+• Collaboration through Azure DevOps Services with Git.
+• Utilized Postman API and Dynatrace to test services.
+
 In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
 
 The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
 
 ### CS Research Assistant @ Southern Arkansas University
 
+2022-2024
+Magnolia, Arkansas, United States · On-site
+
+• Assisted in several research projects with a focus on machine learning.
+• Object detection/classification.
+• Worked with ViT (vision transformers) and YOLOv8.
+• Utilized Python tools in projects.
+• Image/label dataset cleanup.
+
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
 ### Peer Tutor @ Southern Arkansas University
 
-In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role honed my communication and leadership skills.
+2022-2024
+Magnolia, Arkansas, United States · On-site
+
+• Worked as an in-person supplementary tutor.
+• Provided tailored support to individuals who required assistance in mastering their course material.
+• Computer Science, Math, Physics, and English.
+
+In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
 
 # ---
 
@@ -58,6 +84,26 @@ I downloaded and hosted the models on LM Studio and used the OpenAI API to conne
 
 # ---
 
+## **Skills**
+
+### Data Visualization
+
+Here is a simple interactive data visualization of the wages of computer science jobs between 2020-2023. I created this while learning and experimenting with Tableau.
+
+![Tableau Dashboard](assets/img/TableauDashboardWages.png)
+
+### Technical Writing
+
+I believe that technical writing skills are vital in the Computer Science field, to report documents professionally. I have written some technical documents outside of my CS projects to develop these skills.
+
+![Proposal Sample Page](assets/img/ProposalKioskSample.png)
+
+<a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>
+<a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>
+<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>
+
+# ---
+
 ## **Education**
 
 ### Southern Arkansas University
@@ -77,5 +123,7 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 <!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
 
 <img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
+
+Frames:
 
 <img src="/assets/img/KAMIIconFrames.png"/>
