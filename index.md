@@ -4,6 +4,9 @@
 
 I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
+### Core skills:
+Python | Java | SQL | Data Visualization
+
 ### Find me on:
 
 [![website](assets/img/github.svg)](https://github.com/aJustinOng)
@@ -77,7 +80,7 @@ The recipe's ingredients, instructions, and AI-generated image are displayed to 
 
 As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
 
-I downloaded and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
+I installed and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
 
 ![Email Classification](assets/img/EmailClassification.PNG)
 
@@ -115,8 +118,8 @@ As a research assistant, I had to explore different ways of visualizing data. I 
 
 I believe that technical writing skills are vital in the Computer Science field, to report documents professionally. I have written some technical documents outside of my CS projects to develop these skills.
 
-![Memo Sample Page](assets/img/MemoSample.png)
 ![Proposal Sample Page](assets/img/ProposalKioskSample.png)  
+![Memo Sample Page](assets/img/MemoSample.png)  
 
 <a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
 <a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
@@ -138,7 +141,7 @@ Honors College, International Students Association
 
 In my free time, I like do digital art and animations. Creative projects have always been my interest.
 
-I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year, where I even created a .gif animation consisting of 16 hand-drawn frames.
+I had the opportunity to design the logo/mascot of my Senior capstone project, where I even created a .gif animation consisting of 16 hand-drawn frames.
 
 <!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
 
