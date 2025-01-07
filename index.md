@@ -31,6 +31,8 @@ What I did:
 - Collaboration through Azure DevOps Services with Git.  
 - Utilized Postman API and Dynatrace to test services.  
 
+&nbsp;
+
 ### CS Research Assistant @ Southern Arkansas University
 
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
@@ -42,6 +44,8 @@ What I did:
 - Worked with ViT (vision transformers) and YOLOv8.  
 - Utilized Python tools in projects.  
 - Image/label dataset cleanup.  
+
+&nbsp;
 
 ### Peer Tutor @ Southern Arkansas University
 
@@ -111,8 +115,8 @@ As a research assistant, I had to explore different ways of visualizing data. I 
 
 I believe that technical writing skills are vital in the Computer Science field, to report documents professionally. I have written some technical documents outside of my CS projects to develop these skills.
 
-![Proposal Sample Page](assets/img/ProposalKioskSample.png)  
 ![Memo Sample Page](assets/img/MemoSample.png)
+![Proposal Sample Page](assets/img/ProposalKioskSample.png)  
 
 <a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
 <a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
