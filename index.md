@@ -2,7 +2,7 @@
 
 ### Developer/Artist/Creator
 
-I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+> I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
@@ -18,8 +18,8 @@ I am an aspiring data analyst with entry-level professional experience in applic
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-2024  
-Lowell, Arkansas, United States · On-site
+**2024**  
+**Lowell, Arkansas, United States · On-site**
 
 - Participated in multiple 2-week sprints with a full-time backend team.  
 - Updated and maintained the 360 Shipper application.  
@@ -32,10 +32,12 @@ In this paid, in-person internship, I participated in multiple 2-week sprints wi
 
 The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
 
+&nbsp;
+
 ### CS Research Assistant @ Southern Arkansas University
 
-2022-2024  
-Magnolia, Arkansas, United States · On-site
+**2022-2024**  
+**Magnolia, Arkansas, United States · On-site**
 
 - Assisted in several research projects with a focus on machine learning.  
 - Object detection/classification.  
@@ -45,10 +47,12 @@ Magnolia, Arkansas, United States · On-site
 
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
+&nbsp;
+
 ### Peer Tutor @ Southern Arkansas University
 
-2022-2024  
-Magnolia, Arkansas, United States · On-site
+**2022-2024**  
+**Magnolia, Arkansas, United States · On-site**
 
 - Worked as an in-person supplementary tutor.  
 - Provided tailored support to individuals who required assistance in mastering their course material.  
@@ -88,15 +92,20 @@ I downloaded and hosted the models on LM Studio and used the OpenAI API to conne
 
 ### Data Visualization
 
-Here is a simple interactive data visualization of the wages of computer science jobs between 2020-2023. I created this while learning and experimenting with Tableau.
+The following is a simple interactive data visualization of the wages of computer science jobs between 2020-2023. I created this while learning and experimenting with Tableau.
 
 ![Tableau Dashboard](assets/img/TableauDashboardWages.png)
+
+As a research assistant, I had to explore different ways of visualizing data. I utilized Python libraries and Jupyter Notebook during our machine learning projects.
+
+![Jupyter Notebook Visualization](assets/img/VisualizationBrainTumor.png)
 
 ### Technical Writing
 
 I believe that technical writing skills are vital in the Computer Science field, to report documents professionally. I have written some technical documents outside of my CS projects to develop these skills.
 
-![Proposal Sample Page](assets/img/ProposalKioskSample.png)
+![Proposal Sample Page](assets/img/ProposalKioskSample.png)  
+![Memo Sample Page](assets/img/MemoSample.png)
 
 <a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
 <a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
@@ -116,7 +125,9 @@ Honors College, International Students Association
 
 ## **Other things about me**
 
-In my free time, I like do digital art and animations. I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year, where I even created a .gif animation consisting of 16 hand-drawn frames.
+In my free time, I like do digital art and animations. Creative projects have always been my interest.
+
+I had a lot of fun designing the logo/mascot of my team's capstone project in my Senior year, where I even created a .gif animation consisting of 16 hand-drawn frames.
 
 <!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
 
@@ -124,6 +135,12 @@ In my free time, I like do digital art and animations. I had a lot of fun design
 
 <img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
 
-Frames:
+Animation frames:
 
 <img src="/assets/img/KAMIIconFrames.png"/>
+
+Other examples of my digital art works that were created through Clip Studio Paint, a digital graphics software:
+
+<img src="/assets/img/Wallpaper_2099v1.png"/>  
+<img src="/assets/img/Wallpaper_GiratinaAltered.png"/>  
+<img src="/assets/img/Wallpaper_RocketGrootWhiteBackground.png"/>
