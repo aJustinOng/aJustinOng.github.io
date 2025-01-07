@@ -18,15 +18,15 @@ I am an aspiring data analyst with entry-level professional experience in applic
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-2024
+2024  
 Lowell, Arkansas, United States · On-site
 
-• Participated in multiple 2-week sprints with a full-time backend team.
-• Updated and maintained the 360 Shipper application.
-• EUM calls cleanup, removing and replacing legacy code with modern APIs.
-• Application was based on a Java Spring Boot framework.
-• Collaboration through Azure DevOps Services with Git.
-• Utilized Postman API and Dynatrace to test services.
+- Participated in multiple 2-week sprints with a full-time backend team.  
+- Updated and maintained the 360 Shipper application.  
+- EUM calls cleanup, removing and replacing legacy code with modern APIs.  
+- Application was based on a Java Spring Boot framework.  
+- Collaboration through Azure DevOps Services with Git.  
+- Utilized Postman API and Dynatrace to test services.  
 
 In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
 
@@ -34,25 +34,25 @@ The application was based on the Java Spring Boot framework, and we used Git req
 
 ### CS Research Assistant @ Southern Arkansas University
 
-2022-2024
+2022-2024  
 Magnolia, Arkansas, United States · On-site
 
-• Assisted in several research projects with a focus on machine learning.
-• Object detection/classification.
-• Worked with ViT (vision transformers) and YOLOv8.
-• Utilized Python tools in projects.
-• Image/label dataset cleanup.
+- Assisted in several research projects with a focus on machine learning.  
+- Object detection/classification.  
+- Worked with ViT (vision transformers) and YOLOv8.  
+- Utilized Python tools in projects.  
+- Image/label dataset cleanup.  
 
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
 ### Peer Tutor @ Southern Arkansas University
 
-2022-2024
+2022-2024  
 Magnolia, Arkansas, United States · On-site
 
-• Worked as an in-person supplementary tutor.
-• Provided tailored support to individuals who required assistance in mastering their course material.
-• Computer Science, Math, Physics, and English.
+- Worked as an in-person supplementary tutor.  
+- Provided tailored support to individuals who required assistance in mastering their course material.  
+- Computer Science, Math, Physics, and English.
 
 In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
 
@@ -98,8 +98,8 @@ I believe that technical writing skills are vital in the Computer Science field,
 
 ![Proposal Sample Page](assets/img/ProposalKioskSample.png)
 
-<a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>
-<a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>
+<a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
+<a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
 <a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>
 
 # ---
