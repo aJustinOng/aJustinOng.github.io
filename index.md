@@ -68,9 +68,11 @@ What I did:
 
 This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
+![KAMI Website](assets/img/KAMIWeb.PNG)
+
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
 
-![KAMI Website](assets/img/KAMIWeb.PNG)
+![KAMI SQL Diagram](assets/img/KAMISQLDiagram.PNG)
 
 <a href="pdfs/KAMI Report.pdf" target="_blank">[Read more]</a>
 
@@ -106,7 +108,11 @@ Regular binary trees tend to get "unbalanced" after data is inserted or removed.
 
 The following is a simple interactive data visualization of the wages of computer science jobs between 2020-2023. I created this while learning and experimenting with Tableau.
 
-![Tableau Dashboard](assets/img/TableauDashboardWages.png)
+![Tableau Dashboard](assets/img/TableauDashboardWages.png)  
+
+Here's my simple take on the classic Tableau Sample Superstore dataset:
+
+![Tableau Dashboard](assets/img/TableauDashboardSuperstore.png)  
 
 As a research assistant, I had to explore different ways of visualizing data. I utilized Python libraries and Jupyter Notebook during our machine learning projects.
 
