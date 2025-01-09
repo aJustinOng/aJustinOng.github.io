@@ -70,7 +70,7 @@ This capstone project's main focus was to make an AI-based recipe generator that
 
 ![KAMI Website](assets/img/KAMIWeb.PNG)
 
-The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
+The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. I was in charge of the front-end design as well as database design and management.
 
 ![KAMI SQL Diagram](assets/img/KAMISQLDiagram.PNG)
 
