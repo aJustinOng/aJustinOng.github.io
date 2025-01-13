@@ -132,7 +132,7 @@ I also had the opportunity to write a sample memorandum to my professor, analyzi
 
 ![Memo Sample Page](assets/img/MemoSample.png)  
 
-<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>
+<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>  
 <a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
 <a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
 
@@ -152,6 +152,8 @@ Honors College, International Students Association
 - Poster/slide presentations in both internal and external events  
 - SQL database design and management  
 - Cybersecurity-related classes (Cyber Defense, Cyber Forensics, Network Security, etc.)  
+
+&nbsp;
 
 ### Arkansas Summer Research Institute 2023
 
