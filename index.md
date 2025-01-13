@@ -2,18 +2,18 @@
 
 ### Developer/Artist/Creator
 
-I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Core skills:
 Python | Java | SQL | Data Visualization
 
 ### Find me on:
 
-[![website](assets/img/github.svg)](https://github.com/aJustinOng)
+[![website](assets/img/IconGithub.svg)](https://github.com/aJustinOng)
 &nbsp;&nbsp;
-[![website](assets/img/linkedin.svg)](https://linkedin.com/in/a-justin-ong)
+[![website](assets/img/IconLinkedin.svg)](https://linkedin.com/in/a-justin-ong)
 &nbsp;&nbsp;
-[![website](assets/img/instagram.svg)](https://instagram.com/idrawshizzle)
+[![website](assets/img/IconInstagram.svg)](https://instagram.com/idrawshizzle)
 
 # ---
 
@@ -124,12 +124,17 @@ As a research assistant, I had to explore different ways of visualizing data. I 
 
 I believe that technical writing skills are vital in the Computer Science field, to report documents professionally. I have written some technical documents outside of my CS projects to develop these skills.
 
+During my Technical Writing class, I wrote a sample proposal where I sent out digital surveys on a potential product and fully analyzed and researched that topic with both primary and secondary sources. Then I designed the proposal in an aesthetic yet informative document.
+
 ![Proposal Sample Page](assets/img/ProposalKioskSample.png)  
+
+I also had the opportunity to write a sample memorandum to my professor, analyzing the technical effectiveness of a particular product I was familar with.  
+
 ![Memo Sample Page](assets/img/MemoSample.png)  
 
+<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>
 <a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
 <a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
-<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>
 
 # ---
 
@@ -140,6 +145,22 @@ I believe that technical writing skills are vital in the Computer Science field,
 Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics, 4.00GPA
 
 Honors College, International Students Association
+
+- High-level languages like Python, Java, C++  
+- Tools like Git and Linux  
+- Both solo and collaborative academic/research projects  
+- Poster/slide presentations in both internal and external events  
+- SQL database design and management  
+- Cybersecurity-related classes (Cyber Defense, Cyber Forensics, Network Security, etc.)  
+
+### Arkansas Summer Research Institute 2023
+
+A virtual two-week professional development event hosted by Arkansas NSF EPSCoR, where partipants learn technical and professional skills in the data science field.
+
+- Solo data science project from given datasets  
+- Problem definition, data cleaning, data analysis, evalution, and visualization  
+- Virtual project presentation through Zoom  
+- Mentorship from various professionals in the data-science field  
 
 # ---
 
