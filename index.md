@@ -1,11 +1,11 @@
 # **Hello there, I'm Justin!**
 
-### Developer/Artist/Creator
+### Data Engineering/Data Modeling/Data Analysis
 
-I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Core skills:
-Python | Java | SQL | Data Visualization
+Python | Java | SQL | Data
 
 ### Find me on:
 
@@ -74,10 +74,23 @@ The recipe's ingredients, instructions, and AI-generated image are displayed to 
 
 ![KAMI SQL Diagram](assets/img/KAMISQLDiagram.PNG)
 
-<a href="pdfs/KAMI Report.pdf" target="_blank">[Read more]</a>
+<a href="assets/pdfs/KAMI Report.pdf" target="_blank">[Read more]</a>
 
 &nbsp;
 
+### Sales Insights using PowerBI
+
+**Skills:**
+SQL | DAX | Data Visualization
+
+**Tools:**
+MySQL Workbench | Microsoft Excel | PowerBI
+
+I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems. I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful filtering tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions.
+
+[GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+
+<!--
 ### LLM SPAM or HAM Classification
 
 As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
@@ -99,6 +112,7 @@ Regular binary trees tend to get "unbalanced" after data is inserted or removed.
 ![2-3 Trees](assets/img/23Treeslight.PNG)
 
 <a href="pdfs/23Trees.pdf" target="_blank">[Read more]</a>
+-->
 
 # ---
 
@@ -132,9 +146,9 @@ I also had the opportunity to write a sample memorandum to my professor, analyzi
 
 ![Memo Sample Page](assets/img/MemoSample.png)  
 
-<a href="pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>  
-<a href="pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
-<a href="pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
+<a href="assets/pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>  
+<a href="assets/pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
+<a href="assets/pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
 
 # ---
 
@@ -172,18 +186,16 @@ In my free time, I like do digital art and animations. Creative projects have al
 
 I had the opportunity to design the logo/mascot of my Senior capstone project, where I even created a .gif animation consisting of 16 hand-drawn frames.
 
-<!-- ![KAMI logo](/assets/img/KAMIIcon.png) -->
-
-<!-- ![KAMI logo](/assets/img/KAMIIcon.gif) -->
-
 <img src="/assets/img/KAMIIcon.gif" width="200" height="200"/>
 
 Animation frames:
 
 <img src="/assets/img/KAMIIconFrames.png"/>
 
+<!--
 Other examples of my digital art works that were created through Clip Studio Paint, a digital graphics software:
 
 <img src="/assets/img/Wallpaper_2099v1.png"/>  
 <img src="/assets/img/Wallpaper_RocketGrootWhiteBackground.png"/>  
 <img src="/assets/img/Wallpaper_GiratinaAltered.png"/>  
+-->
