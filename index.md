@@ -23,10 +23,10 @@ Python | Java | SQL | Data
 
 [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
-**Skills:**
+**Skills:**  
 `SQL | DAX | Data Visualization`
 
-**Tools:**
+**Tools:**  
 `MySQL Workbench | Microsoft Excel | PowerBI`
 
 **Overview:**  
@@ -43,10 +43,10 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
-### Skills:
+**Skills:**  
 `Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
 
-### Tools:
+**Tools:**  
 `Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
 
 **Overview:**
@@ -61,11 +61,11 @@ The model building section covers a majority of data science concepts like data 
 
 ### 3. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-**Skills:**
-`Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
+**Skills:**  
+Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript
 
-**Tools:**
-`Django | XAMPP MySQL | GPT-4 | DALLE-3`
+**Tools:**  
+Django | XAMPP MySQL | GPT-4 | DALLE-3
 
 **Overview:**  
 
@@ -73,7 +73,7 @@ This senior capstone project was carried out across two semesters (roughly 9 mon
 
 The main focus of the project was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
-<img src="/assets/img/project-kami-website.PNG" width="80%"/>
+<img src="/assets/img/project-kami-website.PNG" width="100%"/>
 
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local database.
 
