@@ -21,15 +21,15 @@ Python | Java | SQL | Data
 
 ### 1. Sales Insights using PowerBI
 
-[GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+![](assets/img/IconGithub.svg) [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
 **Skills:**
 
-SQL | DAX | Data Visualization
+SQL / DAX / Data Visualization
 
 **Tools:**
 
-MySQL Workbench | Microsoft Excel | PowerBI
+MySQL Workbench / Microsoft Excel / PowerBI
 
 **Overview:**  
 
@@ -43,15 +43,15 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 2. Real Estate Price Prediction
 
-[GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
+![](assets/img/IconGithub.svg) [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
 **Skills:**
 
-Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript
+Python / NumPy / Pandas / Matplotlib / scikit-learn / HTML / CSS / JavaScript
 
 **Tools:**
 
-Jupyter Notebook | VS Code | PyCharm | Flask | Postman
+Jupyter Notebook / VS Code / PyCharm / Flask / Postman
 
 **Overview:**
 
@@ -67,11 +67,11 @@ The model building section covers a majority of data science concepts like data 
 
 **Skills:**
 
-Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript
+Project Management / Python / SQL / Data Modeling / AI Prompt Modeling / HTML / CSS / JavaScript
 
 **Tools:**
 
-Django | XAMPP MySQL | GPT-4 | DALLE-3
+Django / XAMPP MySQL / GPT-4 / DALLE-3
 
 **Overview:**  
 
