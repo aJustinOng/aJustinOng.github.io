@@ -21,7 +21,7 @@ Python | Java | SQL | Data
 
 ### 1. Sales Insights using PowerBI
 
-![](assets/img/IconGithub.svg) [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
 **Skills:**
 
@@ -43,7 +43,7 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 2. Real Estate Price Prediction
 
-![](assets/img/IconGithub.svg) [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
+![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
 **Skills:**
 
