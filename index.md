@@ -1,6 +1,6 @@
 # **Hello there, I'm Justin!**
 
-### Data Engineering • Data Modeling • Data Analysis
+### Data Engineering / Data Modeling / Data Analysis
 
 I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](https://github.com/aJustinOng). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
@@ -12,18 +12,15 @@ I am an aspiring data scientist with entry-level professional experience in appl
 &nbsp;&nbsp;
 [![website](assets/img/IconInstagram.svg)](https://instagram.com/idrawshizzle)
 
-## Summary of Skills
+# ---
 
-**Programming Languages:** Python • Java • SQL • C++
+## **Summary of Skills**
 
-**Frameworks:** Pandas • NumPy • scikit-learn • Matplotlib
-
-**Front-end:** HTML • CSS • JavaScript
-
-**Tools:** MySQL • Postman • Tableau • PowerBI • Excel • PowerPoint • Word • Git • Spring Boot
-
-**IDEs:** Jupyter Notebook • Visual Studio Code • PyCharm • IntelliJ IDEA
-
+**Programming Languages:** Python • Java • SQL • C++  
+**Frameworks:** Pandas • NumPy • scikit-learn • Matplotlib  
+**Front-end:** HTML • CSS • JavaScript  
+**Tools:** MySQL • Postman • Tableau • PowerBI • Excel • PowerPoint • Word • Git • Spring Boot  
+**IDEs:** Jupyter Notebook • Visual Studio Code • PyCharm • IntelliJ IDEA  
 **Soft Skills:** Public Speaking • Technical Writing • Collaborative Communication • Project Management
 
 # ---
