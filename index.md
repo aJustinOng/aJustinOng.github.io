@@ -21,7 +21,7 @@ Python | Java | SQL | Data Modeling | Data Analysis
 
 ### App Dev Intern @ J.B. Hunt Transport
 
-[Internship Report](assets/pdfs/InternshipReport.pdf) | [Internship Slides](assets/pdfs/InternshipSlides.pdf) | [Presentation Video](https://use.vg/eiFiHm)
+[Internship Report](assets/pdfs/InternshipReport.pdf) • [Internship Slides](assets/pdfs/InternshipSlides.pdf) • [Presentation Video](https://use.vg/eiFiHm)
 
 In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
 
@@ -153,7 +153,7 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 4. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-[Project Report](assets/pdfs/KAMIReport.pdf) | [Project Poster](assets/pdfs/KAMIPoster.pdf)
+[Project Report](assets/pdfs/KAMIReport.pdf) • [Project Poster](assets/pdfs/KAMIPoster.pdf)
 
 **Skills:**
 
@@ -209,9 +209,7 @@ I also had the opportunity to write a sample memorandum to my professor, analyzi
 
 ![Memo Sample Page](assets/img/MemoSample.png)  
 
-<a href="assets/pdfs/ProposalKiosk.pdf" target="_blank">Sample Proposal</a>  
-<a href="assets/pdfs/ProjectMemorandum.pdf" target="_blank">Sample Memorandum</a>  
-<a href="assets/pdfs/ProjectRecommendationLetter.pdf" target="_blank">Sample Recommendation Letter</a>  
+[Sample Proposal](assets/pdfs/ProposalKiosk.pdf) • [Sample Memorandum](assets/pdfs/ProjectMemorandum.pdf) • [Sample Recommendation Letter](assets/pdfs/ProjectRecommendationLetter.pdf)
 
 # ---
 
@@ -219,7 +217,7 @@ I also had the opportunity to write a sample memorandum to my professor, analyzi
 
 ### Arkansas Summer Research Institute 2023
 
-[Certificate](assets/pdfs/ASRI%202023%20CERT%20Ong.pdf)
+[Certificate of Completion](assets/pdfs/ASRI%202023%20CERT%20Ong.pdf)
 
 A virtual two-week professional development event hosted by Arkansas NSF EPSCoR, where partipants learn technical and professional skills in the data science field.
 
