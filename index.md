@@ -8,7 +8,7 @@
 
 ### Data Engineering / Data Modeling / Data Analysis
 
-I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](https://github.com/aJustinOng). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](#projects). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
