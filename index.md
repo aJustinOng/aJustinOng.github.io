@@ -1,3 +1,9 @@
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 # **Hello there, I'm Justin!**
 
 ### Data Engineering / Data Modeling / Data Analysis
