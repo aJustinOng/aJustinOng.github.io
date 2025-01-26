@@ -105,7 +105,7 @@ So I searched for and downloaded 50 images for each of the chosen five hobbit ac
 
 ![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
-**Skills:** Python • NumPy • Pandas / Matplotlib • scikit-learn • HTML • CSS • JavaScript
+**Skills:** Python • NumPy • Pandas • Matplotlib • scikit-learn • HTML • CSS • JavaScript
 
 **Tools:** Jupyter Notebook • VS Code • PyCharm • Flask • Postman
 
