@@ -1,11 +1,8 @@
 # **Hello there, I'm Justin!**
 
-### Data Engineering/Data Modeling/Data Analysis
+### Data Engineering • Data Modeling • Data Analysis
 
-I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
-
-### Core skills:
-Python | Java | SQL | Data Modeling | Data Analysis
+I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](https://github.com/aJustinOng). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
@@ -15,6 +12,20 @@ Python | Java | SQL | Data Modeling | Data Analysis
 &nbsp;&nbsp;
 [![website](assets/img/IconInstagram.svg)](https://instagram.com/idrawshizzle)
 
+## Summary of Skills
+
+**Programming Languages:** Python • Java • SQL • C++
+
+**Frameworks:** Pandas • NumPy • scikit-learn • Matplotlib
+
+**Front-end:** HTML • CSS • JavaScript
+
+**Tools:** MySQL • Postman • Tableau • PowerBI • Excel • PowerPoint • Word • Git • Spring Boot
+
+**IDEs:** Jupyter Notebook • Visual Studio Code • PyCharm • IntelliJ IDEA
+
+**Soft Skills:** Public Speaking • Technical Writing • Collaborative Communication • Project Management
+
 # ---
 
 ## **Work Experience**
@@ -23,13 +34,13 @@ Python | Java | SQL | Data Modeling | Data Analysis
 
 [Internship Report](assets/pdfs/InternshipReport.pdf) • [Internship Slides](assets/pdfs/InternshipSlides.pdf) • [Presentation Video](https://use.vg/eiFiHm)
 
-In this paid, in-person internship, I participated in multiple 2-week sprints with a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
+In this paid, in-person internship, I participated in multiple 2-week scrum sprints alongside a full-time backend team. We focused on updating and maintaining the 360 Shipper application, where I was assigned stories on EUM calls cleanup, removing and replacing legacy code with modern APIs.
 
 The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
 
 What I did:
 
-- Participated in multiple 2-week sprints with a full-time backend team.  
+- Participated in multiple 2-week scrum sprints alongside a full-time backend team.  
 - Updated and maintained the 360 Shipper application.  
 - EUM calls cleanup, removing and replacing legacy code with modern APIs.  
 - Application was based on a Java Spring Boot framework.  
