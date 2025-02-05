@@ -105,9 +105,9 @@ Honors College, International Students Association
 
 **Tools:** Jupyter Notebook • VS Code • PyCharm • Flask
 
-**Overview:**
-
 <img src="/assets/img/project-hobbit-website.gif" width="100%"/>
+
+**Overview:**
 
 I searched for and downloaded 50 images for each of the chosen five hobbit actors (Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman) on Google. For the preprocessing, I used OpenCV's Haar cascade classifiers to detect faces and eyes in those images, filtering out the unideal training images. I then stored the cropped facial regions into a separate folder before using PyWavelets to extract the facial regions from them. The combined images of both the original cropped image and Wavelet transformed image were split into train and test sets, which were finally used to train a SVM (support vector machine) model. I used GridSearchCV to determine the best model and parameters.
 
@@ -125,9 +125,9 @@ I was not satisfied with the model's accuracy, so I went back to the model-build
 
 **Tools:** Jupyter Notebook • VS Code • PyCharm • Flask • Postman
 
-**Overview:**
-
 <img src="/assets/img/project-real-estate-price-prediction-website.gif" width="100%"/>
+
+**Overview:**
 
 In this regression project, I used a U.S. real estate dataset (2.2M+ entries) on Kaggle that was extracted from Realtor.com to create a prediction model that estimates the price of a property based on house area (square feet), number of bedrooms and bathrooms, and state.
 
@@ -145,9 +145,9 @@ The model building section covers a majority of data science concepts like data 
 
 **Tools:** MySQL Workbench • Microsoft Excel • PowerBI
 
-**Overview:**  
-
 <img src="/assets/img/project-sales-insights.png" width="100%"/>
+
+**Overview:**  
 
 As a data analysis project, I took a sales dataset and used it to create a dashboard in PowerBI. I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
 
