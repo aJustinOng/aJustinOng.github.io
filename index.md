@@ -4,11 +4,9 @@
   }
 </style>
 
-# **Hello there, I'm Justin!
+# **Hello there, I'm Justin!**
 
 ### Data Analyst
-
-### Find me on:
 
 [![website](assets/img/IconGithub.svg)](https://github.com/aJustinOng)
 &nbsp;&nbsp;
@@ -19,10 +17,10 @@
 ## **Summary of Skills**
 
 **Programming Languages:** Python • Java • SQL • C++ • HTML • CSS • JavaScript • TypeScript   
-**Frameworks:** Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot
-**Tools:** Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman
-**IDEs:** Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks
-**Soft Skills:** Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation
+**Frameworks:** Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot  
+**Tools:** Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman  
+**IDEs:** Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks  
+**Soft Skills:** Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation  
 
 # ---
 
