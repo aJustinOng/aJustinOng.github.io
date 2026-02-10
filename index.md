@@ -16,17 +16,22 @@
 
 ## **Summary of Skills**
 
-**Programming Languages:** Python • Java • SQL • C++ • HTML • CSS • JavaScript • TypeScript   
-**Frameworks:** Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot  
-**Tools:** Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman  
-**IDEs:** Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks  
-**Soft Skills:** Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation  
+**Programming Languages:**   
+Python • Java • SQL • C++ • HTML • CSS • JavaScript • TypeScript   
+**Frameworks:**   
+Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot  
+**Tools:**   
+Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman  
+**IDEs:**   
+Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks  
+**Soft Skills:**   
+Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation  
 
 # ---
 
 ## **Work Experience**
 
-### Data Analyst @ The Estée Lauder Companies Inc. [Dec 2025 - Present]
+### Data Analyst @ The Estée Lauder Companies Inc.<br>[Dec 2025 - Present]
 
 I build and enhance dashboards while maintaining their data pipelines.
 
@@ -39,7 +44,7 @@ What I do:
 
 &nbsp;
 
-### HR Analyst Intern @ The Estée Lauder Companies Inc. [Apr 2025 - Nov 2025]
+### HR Analyst Intern @ The Estée Lauder Companies Inc.<br>[Apr 2025 - Nov 2025]
 
 In this internship, I led development for multiple RPA projects, reducing thousands of manual tasks into quick and effective automation processes. I also had my first experience working with real industry data, pipelining raw data into fine-tuned dashboards for management-level teams.
 
@@ -64,7 +69,7 @@ Notable Achievements:
 
 &nbsp;
 
-### CS Research Assistant @ Southern Arkansas University [Sep 2022 - Dec 2024]
+### CS Research Assistant @ Southern Arkansas University<br>[Sep 2022 - Dec 2024]
 
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
@@ -79,7 +84,7 @@ What I did:
 
 &nbsp;
 
-### Peer Tutor @ Southern Arkansas University [Aug 2022 - Dec 2024]
+### Peer Tutor @ Southern Arkansas University<br>[Aug 2022 - Dec 2024]
 
 In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
 
@@ -93,7 +98,7 @@ What I did:
 
 &nbsp;
 
-### App Dev Intern @ J.B. Hunt Transport [May 2024 - Jul 2024]
+### App Dev Intern @ J.B. Hunt Transport<br>[May 2024 - Jul 2024]
 
 [Internship Report](assets/pdfs/InternshipReport.pdf) • [Internship Slides](assets/pdfs/InternshipSlides.pdf) • [Presentation Video](https://use.vg/eiFiHm)
 
@@ -116,7 +121,7 @@ What I did:
 
 ## **Education**
 
-### Southern Arkansas University [Jan 2021 - Dec 2024]
+### Southern Arkansas University<br>[Jan 2021 - Dec 2024]
 
 Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics, 4.00GPA
 
