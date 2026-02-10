@@ -4,36 +4,98 @@
   }
 </style>
 
-# **Hello there, I'm Justin!**
+# **Hello there, I'm Justin!
 
-### Data Engineering / Data Modeling / Data Analysis
-
-I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](#projects). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+### Data Analyst
 
 ### Find me on:
 
 [![website](assets/img/IconGithub.svg)](https://github.com/aJustinOng)
 &nbsp;&nbsp;
 [![website](assets/img/IconLinkedin.svg)](https://linkedin.com/in/a-justin-ong)
-&nbsp;&nbsp;
-[![website](assets/img/IconInstagram.svg)](https://instagram.com/idrawshizzle)
 
 # ---
 
 ## **Summary of Skills**
 
-**Programming Languages:** Python • Java • SQL • C++  
-**Frameworks:** Pandas • NumPy • scikit-learn • Keras • Matplotlib  
-**Front-end:** HTML • CSS • JavaScript  
-**Tools:** MySQL • Postman • Tableau • PowerBI • Excel • PowerPoint • Word • Git • Spring Boot  
-**IDEs:** Jupyter Notebook • Visual Studio Code • PyCharm • IntelliJ IDEA  
-**Soft Skills:** Public Speaking • Technical Writing • Collaborative Communication • Project Management
+**Programming Languages:** Python • Java • SQL • C++ • HTML • CSS • JavaScript • TypeScript   
+**Frameworks:** Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot
+**Tools:** Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman
+**IDEs:** Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks
+**Soft Skills:** Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation
 
 # ---
 
 ## **Work Experience**
 
-### App Dev Intern @ J.B. Hunt Transport
+### Data Analyst @ The Estée Lauder Companies Inc. [Dec 2025 - Present]
+
+I build and enhance dashboards while maintaining their data pipelines.
+
+What I do:
+
+- Build and enhance Power BI reports for various stakeholders.
+- Create and maintain data pipelines.
+- Automate manual data upload processes.
+- Document onboarding and process guides, detailing dashboard data sources and report navigation.
+
+&nbsp;
+
+### HR Analyst Intern @ The Estée Lauder Companies Inc. [Apr 2025 - Nov 2025]
+
+In this internship, I led development for multiple RPA projects, reducing thousands of manual tasks into quick and effective automation processes. I also had my first experience working with real industry data, pipelining raw data into fine-tuned dashboards for management-level teams.
+
+What I did:
+
+- Develop and maintain RPA (robotic process automation) projects for HR Services using Power Automate.
+- Work closely with intern partner and supervisor to discuss solutions for automation projects.
+- Collaborate with the team's data analyst to extract and pull data from company database.
+- Meet with internal stakeholders for RPA proposal and development.
+- Document RPA BRD and user guides, detailing bot processes and instructions for future maintenance. 
+- Present RPA utilization and development to global leads.
+- Conduct Power BI demo and training to other teams.
+
+Notable Achievements:
+
+- Won the FY25 Freshman Hero Award for outstanding first-year performance.
+- Lead development of 14 RPA projects, saving an estimated 2,800+ hours annually.
+- Built 12 Power BI dashboards used by APAC leads on a daily basis. They highlight employee demographics, attrition/turnover rates, and leave balances,
+- Reduced processing time of HR administrative applications (leave, commuting allowance, requests, etc.) for the Japan office by 87.5% using automation.
+- Built a new hire onboarding system with automated Teams event scheduling and emailing.
+- Automated the reading and processing of hundreds of documents for XML bulk stamping, reducing administrative work by 80%.
+
+&nbsp;
+
+### CS Research Assistant @ Southern Arkansas University [Sep 2022 - Dec 2024]
+
+I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
+
+What I did:
+
+- Developed object detection and classification models with ViT (Vision Transformers) and YOLOv8.
+- Worked with my professor in research studies and applications for machine learning methods.
+- Used Jupyter Notebook and Python (NumPy, Pandas, Matplotlib, etc.) for data ETL and analysis.
+- Explored computer vision methods on medical records like brain tumor and chest classification.
+- Explored different multi-label classification strategies and image enhancement techniques.
+- Presented findings on TDA (Topological Data Analysis) at the 2023 DART Annual Conference.
+
+&nbsp;
+
+### Peer Tutor @ Southern Arkansas University [Aug 2022 - Dec 2024]
+
+In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
+
+What I did:
+
+- Worked with fellow tutors to support students in mastering course material and exam preparation.
+- Customized teaching strategies to meet individual student needs and learning habits.
+- Tutored computer science, math/algebra/calculus, physics, English.
+- Assisted with campus- and class-related inquiries and issues.
+- Managed inventory of calculators and stationery for the tutoring center. 
+
+&nbsp;
+
+### App Dev Intern @ J.B. Hunt Transport [May 2024 - Jul 2024]
 
 [Internship Report](assets/pdfs/InternshipReport.pdf) • [Internship Slides](assets/pdfs/InternshipSlides.pdf) • [Presentation Video](https://use.vg/eiFiHm)
 
@@ -43,61 +105,72 @@ The application was based on the Java Spring Boot framework, and we used Git req
 
 What I did:
 
-- Participated in multiple 2-week scrum sprints alongside a full-time backend team.  
-- Updated and maintained the 360 Shipper application.  
-- EUM calls cleanup, removing and replacing legacy code with modern APIs.  
-- Application was based on a Java Spring Boot framework.  
-- Collaboration through Azure DevOps Services with Git.  
-- Utilized Postman API and Dynatrace to test services.  
-
-&nbsp;
-
-### CS Research Assistant @ Southern Arkansas University
-
-I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
-
-What I did:
-
-- Assisted in several research projects with a focus on machine learning.  
-- Object detection/classification.  
-- Worked with ViT (vision transformers) and YOLOv8.  
-- Utilized Python tools in projects.  
-- Image/label dataset cleanup.  
-
-&nbsp;
-
-### Peer Tutor @ Southern Arkansas University
-
-In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
-
-What I did:
-
-- Worked as an in-person supplementary tutor.  
-- Provided tailored support to individuals who required assistance in mastering their course material.  
-- Computer Science, Math, Physics, and English.  
+- Maintained a shipment booking and tracking app in a Java framework.
+- Participated in daily standups, sprint planning, and retrospectives of a full-time team.
+- Collaborated with intern partners and full-time mentors both on-site and remotely.
+- Refactored legacy code and removed unused endpoints.
+- Recharted APIs in existing services by replacing outdated EUM calls.
+- Used Postman API and Dynatrace for HTTP request testing.
+- Used Azure DevOps Services with Git for version control.
+- Attended multiple company-hosted events, gaining insights into the logistics industry.
 
 # ---
 
 ## **Education**
 
-### Southern Arkansas University
+### Southern Arkansas University [Jan 2021 - Dec 2024]
 
 Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Minor in Mathematics, 4.00GPA
 
 Honors College, International Students Association
 
-- High-level languages like Python, Java, C++  
-- Tools like Git and Linux  
-- Both solo and collaborative academic/research projects  
-- Poster/slide presentations in both internal and external events  
-- SQL database design and management  
-- Cybersecurity-related classes (Cyber Defense, Cyber Forensics, Network Security, etc.)  
+Academic activities:
+- 2024-2025 Outstanding Student of the Math and Computer Science Department
+- President's list 2021-2024
+- Presented at the First CSE Undergraduate Research Conference (2022)
+- Presented at the Third CSE Undergraduate Research Conference (2024)
+
+Extracurricular activities:
+- Participant of the 2024 Hedrix College Programming contest
+- Mulerider Esports captain/player (Valorant) from 2023-2024
+- International Student Association activity organizer from 2021-2022 
+- Volunteer for Paws on the Malls
+
+On-campus jobs:
+- Research assistant for Math and Computer Science Department from 2022-2024
+- Peer tutor at the Academic Enrichment Center from 2022-2024 
 
 # ---
 
 ## **Projects**
 
-### 1. Hobbit Face SVM Classifier
+### 1. Spotify Wrapped in Power BI
+
+![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/spotify-wrapped-power-bi)
+
+**Skills:** Data ETL • Data Visualization • DAX • 3rd Party Web API
+
+**Tools:** Power BI • Power Query
+
+<img src="/assets/img/project-spotify-wrapped-power-bi-dashboard.gif" width="100%"/>
+
+**Overview:**
+
+Spotify Wrapped is a popular online phenomenon that pops up every year, but it is inherently incomplete, as data is often cut by mid November to generate the summary before the year ends. In this project, I reconstructed and customized Spotify Wrapped using Spotify’s provided personal data and public Web API, producing a extensive view of the classic report that can span multiple years.
+
+Using Power Query, tens of thousands of streaming records are ingested from raw, local JSON files and transformed into a structured semantic model. After basic cleaning, unique track and artist identifiers are grouped into controlled batches to be queried to the [Spotify Web API](https://developer.spotify.com/). Through the Web API, the model can obtain additional resources like album and artist images and genre information. To prevent exceeding rate limits, the most relavant tracks and artists are targeted and grouped for batch querying, reducing ~25000 single queries to just 33 API calls.
+
+<img src="/assets/img/project-spotify-wrapped-power-bi-power-query.png" width="100%"/>
+
+The result is a fully reproducible, end-to-end analytics pipeline that combines raw data, API-based enrichment, and analytical modeling to recreate — and extend — Spotify Wrapped with greater accuracy, completeness, and analytical flexibility.
+
+**Note:** According to [official Spotify documentation](https://developer.spotify.com/documentation/web-api), API calls in the future will require a premium Spotify account.
+
+&nbsp;
+
+### 2. Hobbit Face SVM Classifier
+
+> If most of us valued food and cheer and song above hoarded gold it would be a merrier world. — J.R.R. Tolkien
 
 ![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
@@ -109,15 +182,17 @@ Honors College, International Students Association
 
 **Overview:**
 
-I searched for and downloaded 50 images for each of the chosen five hobbit actors (Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman) on Google. For the preprocessing, I used OpenCV's Haar cascade classifiers to detect faces and eyes in those images, filtering out the unideal training images. I then stored the cropped facial regions into a separate folder before using PyWavelets to extract the facial regions from them. The combined images of both the original cropped image and Wavelet transformed image were split into train and test sets, which were finally used to train a SVM (support vector machine) model. I used GridSearchCV to determine the best model and parameters.
+This project explores whether a machine learning model can distinguish between actors who portrayed Hobbits in The Lord of the Rings. Because the actors share similar visual traits, the task serves as a fine-grained face classification challenge.
 
-After exporting the model as a Pickle file, I loaded it in a Flask server that was connected to a HTML/CSS/JavaScript webpage. The webpage allows the user to drop in an image to classify which of the five hobbits the image resembles. It also displays the confidence of the model and can detect multiple faces in a single image.
+I scraped images online of Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman that were ingested into a Jupyter Notebook setup. Faces were detected and cropped using OpenCV Haar cascades, and low-quality images were filtered out. The initial model used a traditional pipeline with wavelet feature extraction and an SVM classifier, tuned using GridSearchCV. The trained model was deployed via a Flask backend and a simple web interface that supports image uploads, multiple face detection, and confidence-based predictions.
 
-I was not satisfied with the model's accuracy, so I went back to the model-building process. Since SVM is considered outdated in modern image classification, I replaced it with a CNN (Convolutional Neural Network) approach. It skips the wavelet transforming process, since CNN can work directly with raw image pixels. It achieved an accuracy of 84.1% after 20-30 training epochs, a hefty 20% improvement from the SVM model.
+To improve performance, the SVM was replaced with a Convolutional Neural Network trained directly on raw face images. After 20–30 epochs, the CNN achieved a ~20% improvement in accuracy over the original approach.
+
+The final system demonstrates the effectiveness of CNNs for distinguishing visually similar faces in a real-world classification setting.
 
 &nbsp;
 
-### 2. Real Estate Price Prediction
+### 3. Real Estate Price Prediction
 
 ![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
@@ -134,24 +209,6 @@ In this regression project, I used a U.S. real estate dataset (2.2M+ entries) on
 I started by preprocessing the dataset and used it to build a model with scikit-learn using linear regression. The model was then exported as a Pickle file. Next, I created a Python Flask server to run the model and receive GET and POST requests, which I tested using Postman. Lastly, I made a webpage using HTML, CSS, and JavaScript with a user-friendly UI, where the user can enter their desired inputs to get a predicted price.
 
 The model building section covers a majority of data science concepts like data cleaning, outlier removal, feature engineering, dimensionality reduction, one hot encoding, and K-Fold cross-validation.
-
-&nbsp;
-
-### 3. Sales Insights using PowerBI
-
-![](assets/img/IconGithubSmall.svg) [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
-
-**Skills:** SQL • DAX • Data Visualization
-
-**Tools:** MySQL Workbench • Microsoft Excel • PowerBI
-
-<img src="/assets/img/project-sales-insights.png" width="100%"/>
-
-**Overview:**  
-
-As a data analysis project, I took a sales dataset and used it to create a dashboard in PowerBI. I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
-
-I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
 
 &nbsp;
 
