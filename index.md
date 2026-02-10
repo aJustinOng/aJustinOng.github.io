@@ -12,8 +12,6 @@
 &nbsp;&nbsp;
 [![website](assets/img/IconLinkedin.svg)](https://linkedin.com/in/a-justin-ong)
 
-# ---
-
 ## **Summary of Skills**
 
 **Programming Languages:**   
@@ -21,11 +19,11 @@ Python • Java • SQL • C++ • HTML • CSS • JavaScript • TypeScript
 **Frameworks:**   
 Pandas • NumPy • scikit-learn • Keras • Matplotlib • Spring Boot  
 **Tools:**   
-Power BI •  Power Query •  Power Automate •  Excel •  Visio •  Tableau •  MySQL •  Postman  
+Power BI • Power Query • Power Automate • Excel • Visio • Tableau • MySQL  
 **IDEs:**   
-Jupyter Notebook •  Visual Studio Code •  PyCharm •  IntelliJ IDEA •  Code::Blocks  
+Jupyter Notebook • Visual Studio Code • PyCharm • IntelliJ IDEA  
 **Soft Skills:**   
-Project Management •  Technical Writing •  Collaboratiion •  Transformation & Automation  
+Project Management • Technical Writing • Collaboratiion • Transformation  
 
 # ---
 
@@ -35,7 +33,7 @@ Project Management •  Technical Writing •  Collaboratiion •  Transformatio
 
 I build and enhance dashboards while maintaining their data pipelines.
 
-What I do:
+**What I do:**
 
 - Build and enhance Power BI reports for various stakeholders.
 - Create and maintain data pipelines.
@@ -48,7 +46,7 @@ What I do:
 
 In this internship, I led development for multiple RPA projects, reducing thousands of manual tasks into quick and effective automation processes. I also had my first experience working with real industry data, pipelining raw data into fine-tuned dashboards for management-level teams.
 
-What I did:
+**What I did:**
 
 - Develop and maintain RPA (robotic process automation) projects for HR Services using Power Automate.
 - Work closely with intern partner and supervisor to discuss solutions for automation projects.
@@ -58,7 +56,7 @@ What I did:
 - Present RPA utilization and development to global leads.
 - Conduct Power BI demo and training to other teams.
 
-Notable Achievements:
+**Notable Achievements:**
 
 - Won the FY25 Freshman Hero Award for outstanding first-year performance.
 - Lead development of 14 RPA projects, saving an estimated 2,800+ hours annually.
@@ -73,7 +71,7 @@ Notable Achievements:
 
 I assisted in several machine learning research projects, specifically ViT (vision transformers) object detection. Python and its libraries (Tensorflow, Keras, PyTorch, CUDA) were utilized for our projects.
 
-What I did:
+**What I did:**
 
 - Developed object detection and classification models with ViT (Vision Transformers) and YOLOv8.
 - Worked with my professor in research studies and applications for machine learning methods.
@@ -88,7 +86,7 @@ What I did:
 
 In the Academic Enrichment Center, I worked as an in-person supplemental tutor to peers, providing tailored support to individuals who required assistance in mastering their course material. This role trained my communication and leadership skills.
 
-What I did:
+**What I did:**
 
 - Worked with fellow tutors to support students in mastering course material and exam preparation.
 - Customized teaching strategies to meet individual student needs and learning habits.
@@ -106,7 +104,7 @@ In this paid, in-person internship, I participated in multiple 2-week scrum spri
 
 The application was based on the Java Spring Boot framework, and we used Git requests to collaborate through Azure DevOps Services. We also utilized Postman API and Dynatrace to test our services.
 
-What I did:
+**What I did:**
 
 - Maintained a shipment booking and tracking app in a Java framework.
 - Participated in daily standups, sprint planning, and retrospectives of a full-time team.
@@ -127,19 +125,19 @@ Bachelor of Science in Computer Science: Cyber Security and Privacy Option, Mino
 
 Honors College, International Students Association
 
-Academic activities:
+**Academic activities:**
 - 2024-2025 Outstanding Student of the Math and Computer Science Department
 - President's list 2021-2024
 - Presented at the First CSE Undergraduate Research Conference (2022)
 - Presented at the Third CSE Undergraduate Research Conference (2024)
 
-Extracurricular activities:
+**Extracurricular activities:**
 - Participant of the 2024 Hedrix College Programming contest
 - Mulerider Esports captain/player (Valorant) from 2023-2024
 - International Student Association activity organizer from 2021-2022 
 - Volunteer for Paws on the Malls
 
-On-campus jobs:
+**On-campus jobs:**
 - Research assistant for Math and Computer Science Department from 2022-2024
 - Peer tutor at the Academic Enrichment Center from 2022-2024 
 
